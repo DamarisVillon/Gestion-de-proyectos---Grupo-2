@@ -1,1 +1,41 @@
 6.1 "Definir las actividades", se centra en la identificacion y descripcion de las actividades necesarias para completar el trabajo del proyecto. Este proceso implica descomponer los entregables del proyecto en tareas más pequeñas y manejables, lo que facilita la planificación y la asignación de recursos. La definición clara de las actividades es crucial para el desarrollo del cronograma del proyecto, ya que cada actividad debe ser específica y detallada para asegurar que todos los aspectos del trabajo se consideren y se programen adecuadamente. Este proceso también ayuda a identificar dependencias entre actividades y a establecer un marco para el seguimiento y control del progreso del proyecto.
+6.6 Controlar el Cronograma (Walter Reyes)
+Controlar el Cronograma son las actividades encargadas de brindar seguimiento al estado del proyecto para que de esta manera se pueda modificar o actualizar el avance de dicho proyecto, de la misma manera nos permite la gestión l cambios a la línea base de nuestro cronograma. 
+Controlar el Cronograma consiste en:
+
+•	 verificar el estado actual del cronograma.
+•	 influir sobre los factores que puedan generar cambios al cronograma.
+•	 asegurarse de los cambios realizados en el cronograma.
+•	 gestionar los cambios realizados de una manera constante.
+
+Controlar el Cronograma es un componente del proceso de Realizar el Control Integrado de Cambios 
+6.6.1 Controlar el Cronograma: Entradas
+1 Plan para la Dirección del Proyecto
+El plan de gestión del cronograma nos permite conocer más a detalles la manera que se va a gestionar y controlar el cronograma del proyecto. 
+.2 Cronograma del Proyecto
+Nos indican las actividades realizadas y las terminadas así como también nos muestra las actualizaciones realizadas.
+.3 Información sobre el Desempeño del Trabajo
+Información del avance del proyecto.
+.4 Activos de los Procesos de la Organización
+Los activos de los procesos de la organización que influyen en el proceso Controlar el Cronograma incluyen, entre otros:
+•	 las políticas, procedimientos y lineamientos existentes, formales e informales, vinculadas al control del cronograma
+•	 las herramientas de control del cronograma
+•	 los métodos de seguimiento e información que serán empleados.
+
+6.6.2 Controlar el Cronograma: Herramientas y Técnicas
+.1 Revisiones del Desempeño
+Nos permite medir el desempeño y nos da a conocer que tiempo aún resta para que culmine el proyecto que se está ejecutando. 
+Si se usa el método de planificación de la Cadena Crítica podemos conocer la diferencia entre el colchón requerido y el colchón restante Y así podemos conocer si es apropiado realizar correcciones.
+.2 Análisis de Variación
+Las mediciones del desempeño del cronograma (SV, SPI) nos permite evaluar el porcentaje de variación con respecto a la línea base original del cronograma. 
+6.6.3 Controlar el Cronograma: Salidas
+.1 Mediciones del Desempeño del Trabajo
+Los valores encontrados de la variación del cronograma (SV) y del índice de desempeño del cronograma (SPI) referente los componentes de la EDT, deberán ser documentados y llegar a los interesados.
+.2 Actualizaciones a los Activos de los Procesos de la Organización
+Entre los activos de los procesos de la organización que pueden actualizarse, se incluyen :
+•	 las causas de las variaciones
+•	 las acciones correctivas seleccionadas y la razón de su selección
+•	 otros tipos de lecciones aprendidas procedentes del control del cronograma del proyecto.
+
+
+
