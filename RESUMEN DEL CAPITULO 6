@@ -37,5 +37,27 @@ Entre los activos de los procesos de la organización que pueden actualizarse, s
 •	 las acciones correctivas seleccionadas y la razón de su selección
 •	 otros tipos de lecciones aprendidas procedentes del control del cronograma del proyecto.
 
+6.2 Secuenciar las Actividades 
+Secuenciar las Actividades es el proceso que consiste en identificar y documentar las relaciones entre las actividades del proyecto. La secuencia de actividades se establece mediante relaciones lógicas. Cada actividad e hito, a excepción del primero y del último, se conecta con al menos un predecesor y un sucesor. Puede ser necesario incluir adelantos o retrasos entre las actividades para poder sustentar un cronograma del proyecto realista y viable. La secuencia puede establecerse utilizando un software de gestión de proyectos o empleando técnicas manuales o automatizadas.
+6.2.1 Secuenciar las Actividades: 
+Entradas
+1.- Lista de Actividades Descrita en la Sección 6.1.3.1. .
+2.- Atributos de la Actividad Descritos en la Sección 6.1.3.2. Los atributos de la actividad pueden describir una secuencia necesaria de eventos o definir relaciones predecesoras o sucesoras. 
+3.- Lista de Hitos Descrita en la Sección 6.1.3.3. La lista de hitos puede incluir fechas programadas para hitos específicos
+4.- Enunciado del Alcance del Proyecto El enunciado del alcance del proyecto (Sección 5.2.3.1) contiene la descripción del alcance del producto, que incluye las características del producto que pueden afectar el establecimiento de la secuencia de las actividades, tal como la disposición física de una planta que se va a construir o las interfaces del subsistema en un proyecto de software. Aunque estos efectos a menudo son visibles en la lista de actividades, por lo general la descripción del alcance del producto se revisa para corroborar su exactitud. 
+5.- Activos de los Procesos de la Organización Entre los activos de los procesos de la organización que pueden influir en el proceso Secuenciar las Actividades, se encuentran los archivos de proyecto provenientes de la base corporativa de conocimiento, que se utilizan en la metodología de planificación.
+6.2.2 Secuenciar las Actividades: Herramientas y Técnicas 
+1.- Método de Diagramación por Precedencia (PDM) El método de diagramación por precedencia (PDM) es utilizado en el método de la ruta crítica (CPM) para crear un diagrama de red del cronograma del proyecto que utiliza casillas o rectángulos, denominados nodos, para representar las actividades, que se conectan con flechas que muestran sus relaciones lógicas. Esta técnica también se denomina actividad en el nodo (AON) y es el método utilizado por la mayoría de los paquetes de software de gestión de proyectos. 
+El método de diagramación por precedencia incluye cuatro tipos de dependencias o relaciones lógicas. 
+• Final a Inicio (FI). El inicio de la actividad sucesora depende de la finalización de la actividad predecesora. 
+• Final a Final (FF). La finalización de la actividad sucesora depende de la finalización de la actividad predecesora. 
+• Inicio a Inicio (II). El inicio de la actividad sucesora depende del inicio de la actividad predecesora. 
+• Inicio a Final (IF). La finalización de la actividad sucesora depende del inicio de la actividad predecesora.
+6.2.3 Secuenciar las Actividades: Salidas 
+1.- Diagramas de Red del Cronograma del Proyecto Los diagramas de red del cronograma del proyecto son una representación esquemática de las actividades del cronograma del proyecto y de sus relaciones lógicas, también denominadas dependencias. Puede incluir todos los detalles del proyecto o contener una o más actividades resumen. Una narración resumida puede adjuntarse al diagrama y describir la metodología básica utilizada para secuenciar las actividades. Todas las secuencias inusuales de las actividades dentro de la red deberán describirse íntegramente en la narración. 
+2.- Actualizaciones a los Documentos del Proyecto Entre los documentos del proyecto que pueden actualizarse, se incluyen, entre otros: 
+• las listas de actividades 
+• los atributos de la actividad 
+• el registro de riesgos
 
 
