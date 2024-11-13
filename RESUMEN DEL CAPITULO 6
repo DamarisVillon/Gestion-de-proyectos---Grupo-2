@@ -60,4 +60,34 @@ El método de diagramación por precedencia incluye cuatro tipos de dependencias
 • los atributos de la actividad 
 • el registro de riesgos
 
+6.3 Estimar los Recursos de las Actividades 
+Estimar los Recursos de las Actividades es el proceso que consiste en estimar el tipo y las cantidades de materiales, personas, equipos o suministros requeridos para ejecutar cada actividad. El proceso Estimar los Recursos de las Actividades está estrechamente coordinado con el proceso Estimar los Costos (Sección 7.1). Por ejemplo
+* El equipo de un proyecto de construcción necesitará familiarizarse con los códigos de edificación locales. A menudo, es posible acceder fácilmente a este conocimiento a través de los proveedores locales
+* Un equipo de diseño de un automóvil necesitará familiarizarse con las técnicas de ensamblado automatizado más recientes.
+6.3.1 Estimar los Recursos de las Actividades: Entradas
+.1 Lista de Actividades
+2 Atributos de la Actividad
+3 Calendarios de Recursos
+.4 Factores Ambientales de la Empresa
+5 Activos de los Procesos de la Organización
+6.3.2 Estimar los Recursos de las Actividades: Herramientas y Técnicas
+1 Juicio de Expertos
+ A menudo, se requiere el juicio de expertos para evaluar las entradas a este proceso relacionadas con los recursos. Cualquier grupo o persona con conocimientos especializados en planificación y estimación de recursos puede proporcionar dicha experiencia. 
+2 Análisis de Alternativas 
+Muchas actividades del cronograma cuentan con métodos alternativos de realización. Éstos abarcan el uso de distintos niveles de capacidad o habilidades de los recursos, diferentes tamaños y tipos de máquinas, diferentes herramientas (manuales vs. automáticas) y la decisión de hacer o comprar los recursos 
+3 Datos de Estimación Publicados 
+Muchas empresas publican periódicamente los índices de producción actualizados y los costos unitarios de los recursos para una gran variedad de industrias, materiales y equipos, en diferentes países y en diferentes ubicaciones geográficas dentro de esos países. 
+4 Estimación Ascendente 
+Cuando una actividad no puede estimarse con un grado razonable de confianza, el trabajo dentro de esa actividad se descompone a un nivel mayor de detalle. Se estiman las necesidades de recursos. Estos estimados se suman luego en un total para cada uno de los recursos de la actividad. Las actividades pueden o no tener dependencias entre sí, que pueden afectar la aplicación y el uso de los recursos.
+5 Software de Gestión de Proyectos 
+El software de gestión de proyectos tiene la capacidad de ayudar a planificar, organizar y gestionar los grupos de recursos, y de desarrollar estimados de los mismos. En función de la complejidad del software, pueden definirse las estructuras de desglose de recursos, su disponibilidad y sus costos, así como diversos calendarios, para ayudar en la optimización del uso de recursos.
+6.3.3 Estimar los Recursos de las Actividades: Salidas 
+1 Requisitos de Recursos de la Actividad
+2 Estructura de Desglose de Recursos
+.3 Actualizaciones a los Documentos del Proyecto 
+Entre los documentos del proyecto que pueden actualizarse, se incluyen, entre otros: 
+* la lista de actividades 
+* los atributos de la actividad 
+* los calendarios de recursos
+
 
